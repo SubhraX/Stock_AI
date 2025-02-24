@@ -9,6 +9,11 @@ build/
 out/
 __pycache__/
 *.pyc
+venv/
+__pycache__/
+*.pyd
+*.dll
+
 
 # Ignore logs and temp files
 npm-debug.log
